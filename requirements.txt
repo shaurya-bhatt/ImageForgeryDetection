@@ -1,0 +1,12 @@
+# Image Forgery Detection Dependencies
+
+numpy
+opencv-python
+pandas
+matplotlib
+scikit-image
+scikit-learn
+seaborn
+torch
+torchvision
+Pillow
